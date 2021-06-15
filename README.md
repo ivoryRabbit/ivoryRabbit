@@ -9,8 +9,8 @@
   - Python & Scala
   - Amazon Web Service
   - kubernetes & Docker
-  - Jenkins & luigi / Airflow 2.0
-  - Tensorflow & Pytorch
+  - Jenkins & luigi / Airflow2.0
+  - Tensorflow2.0 & Pytorch
   - Recommender System
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=dracula)
