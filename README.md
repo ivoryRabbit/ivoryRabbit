@@ -1,7 +1,8 @@
 ## Hello.
 
 - 🔭 I’m currently working on 
-  - *Data & Recommend Engineering*
+  - *Data Engineering*
+  - *Recommend Engineering*
 
 - 🌱 I’m currently learning
   - Apache Spark
