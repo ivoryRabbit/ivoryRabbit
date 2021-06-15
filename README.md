@@ -1,6 +1,16 @@
-# Temp
+## Hello.
 
-- 🔭 I’m currently working on *Recommend Engineering*
+- 🔭 I’m currently working on 
+  - *Data/Recommend Engineering*
+
+- 🌱 I’m currently learning
+  - Apache Spark
+  - Python & Scala
+  - Amazon Web Service
+  - kubernetes & Docker
+  - Jenkins & luigi / Airflow 2.0
+  - Tensorflow & Pytorch
+  - Recommender System
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=dracula)
 
