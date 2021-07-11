@@ -8,12 +8,12 @@
   - Apache Spark
   - Python & Scala
   - Amazon Web Service
-  - kubernetes & Docker
+  - Kubernetes & Docker
   - Jenkins & luigi / Airflow2.0
-  - Tensorflow2.0 & Pytorch
+  - Tensorflow2 & Pytorch
   - Recommender System
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=radical)
 
 
 <!--
