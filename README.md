@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on 
   - *Data Engineering*
-  - *Recommend Engineering*
+  - *Recommender Engineering*
 
 - 🌱 I’m currently learning
   - Apache Spark
@@ -11,7 +11,7 @@
   - Kubernetes & Docker
   - Jenkins & luigi / Airflow2.0
   - Tensorflow2 & Pytorch
-  - Recommender System
+  - Django & Flask & FastAPI
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=highcontrast)
 
