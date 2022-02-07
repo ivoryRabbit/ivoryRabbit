@@ -9,7 +9,7 @@
   - Python & Scala
   - Amazon Web Service
   - Kubernetes & Docker
-  - Airflow2.0
+  - Apache Airflow 2.0
   - Tensorflow2 & Pytorch
   - FastAPI
   - Apache Kafka & Kafka Connect
