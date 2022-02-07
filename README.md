@@ -9,9 +9,12 @@
   - Python & Scala
   - Amazon Web Service
   - Kubernetes & Docker
-  - Jenkins & luigi / Airflow2.0
+  - Airflow2.0
   - Tensorflow2 & Pytorch
-  - Django & Flask & FastAPI
+  - FastAPI
+  - Apache Kafka & Kafka Connect
+  - Terraform
+  - KubeFlow & AWS SageMaker
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=highcontrast)
 
