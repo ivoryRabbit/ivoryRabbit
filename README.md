@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on 
   - *Data Engineering*
-  - *Recommender Engineering*
 
 - 🌱 I’m currently learning
   - Apache Spark
@@ -14,7 +13,6 @@
   - FastAPI
   - Apache Kafka & Kafka Connect
   - Terraform
-  - KubeFlow & AWS SageMaker
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivoryRabbit&count_private=true&show_icons=true&theme=highcontrast)
 
