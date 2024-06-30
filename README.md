@@ -4,11 +4,11 @@
 
 **Data Engineer**
 
-## Languages i'm using
+## Languages I'm using
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squre&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Scala-DC322F?style=flat-squre&logo=scala&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-squre&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=flat-squre&logo=r&logoColor=white"/>
   
-## Skills i'm learning
+## Skills I'm learning
 
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-squre&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-squre&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/Elastic-005571?style=flat-squre&logo=elastic&logoColor=white"/><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-squre&logo=apacheairflow&logoColor=white"/>
 
