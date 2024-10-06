@@ -14,12 +14,8 @@
 
 [![data](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
-[![ml](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+[![ml](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) [![web](https://skillicons.dev/icons?i=spring,fastapi)](https://skillicons.dev)
 
-[![system](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
-
-[![cloud](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
-
-[![web](https://skillicons.dev/icons?i=spring,fastapi)](https://skillicons.dev)
+[![system](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) [![cloud](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
 
 </div>
