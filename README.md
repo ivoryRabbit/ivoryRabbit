@@ -19,3 +19,12 @@
 [![system](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) [![cloud](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
 
 </div>
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ivoryRabbit"
+  width="600"
+  height="300"
+/>
+</a>
