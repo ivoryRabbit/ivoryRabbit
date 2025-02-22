@@ -13,15 +13,3 @@
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-squre&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-squre&logo=apacheairflow&logoColor=white"/>
 
 [![skills](https://skillicons.dev/icons?i=kafka,pytorch,tensorflow,spring,fastapi,docker,kubernetes,aws,terraform&perline=6)](https://skillicons.dev)
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/ivoryRabbit"
-    width="600"
-    height="300"
-  />
-</a>
-
-</div>
